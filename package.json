@@ -1,5 +1,5 @@
 {
-  "name": "rs-cordova-plugin-statusbar",
+  "name": "cordova-plugin-statusbar-rs",
   "version": "3.0.0-dev",
   "description": "Cordova StatusBar Plugin",
   "types": "./types/index.d.ts",
